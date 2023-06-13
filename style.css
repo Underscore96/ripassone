@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+body{
+    background-color: crimson;
+    margin: 0;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+h1,h2{
+    font-family: 'Emilys Candy', cursive;
+}
+
+.gallery-img{
+    width: 30%;
+}
+
+main{
+    width: 800px;
+    margin:auto;
+    background-color: white;
+    padding: 16px;
+}
+
+.home-img{
+    width: 100%;
+}
+
+.home-video{
+    width: 800px;
+    height: 450px;
+}
+
+footer{
+    background-color: #050512;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header{
+    background-image: url("./assets/candy6.avif")   ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(255, 255, 255, 0.829);
+    height: 300px;
+    text-align: center;
+}
+
+h1{
+    font-size: 155px;
+    margin: 0px;
+}
+
+nav{
+    background-color: rgba(204, 120, 179, 0.822);
+    padding: 20px;
+}
+
+.nav-link{
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    margin: 0px 4px;
+}
